@@ -7,3 +7,6 @@
 #
 #	README.markdown
 nothing added to commit but untracked files present (use "git add" to track)
+
+This is lab 05
+It's about JavaScript
